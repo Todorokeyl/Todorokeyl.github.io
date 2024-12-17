@@ -1,6 +1,11 @@
 # Hacker Wannabe
 Welcome to my Hacker Themed Portfolio!
 
+### About me
+- Cale Andriane B. Herrera
+- 22 years old
+- 4th year student
+
 ### Education
 - Undergraduate BS in Geodetic Engineering Students, University of the Philippines Diliman
 
