@@ -1,1 +1,41 @@
+title: "Cale's Hacker-Themed Portfolio"
+email: "cbherrera1@up.edu.ph"
+description: "Welcome to my hacker-themed portfolio!"
+author: "Cale Andriane B. Herrera"
+url: "https://Todorokeyl.github.io/portfolio"
+
+# Theme configuration
+theme: "hacker"
+
+# Social Links
+social_links:
+  - name: GitHub
+    url: "https://github.com/Todorkeyl"
+    icon: "fa-github"
+  - name: LinkedIn
+    url: "https://linkedin.com/in/cale-andriane-herrera-699758281"
+    icon: "fa-linkedin"
+
+# Additional options
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation menu
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "About"
+    url: "/about/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Markdown options
+markdown: kramdown
+highlighter: rouge
+
+# Build settings
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
