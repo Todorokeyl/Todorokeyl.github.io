@@ -1,11 +1,11 @@
-title: "Cale's Hacker-Themed Portfolio"
+title: "Cale's Spatial Data Science Portfolio"
 email: "cbherrera1@up.edu.ph"
-description: "Welcome to my hacker-themed portfolio!"
+description: "Welcome to my spatial data science portfolio!"
 author: "Cale Andriane B. Herrera"
 url: "https://Todorokeyl.github.io/portfolio"
 
-# Theme configuration
-theme: "hacker"
+# Theme configuration using remote theme
+remote_theme: "pages-themes/hacker@v0.2.0"
 
 # Social Links
 social_links:
@@ -18,8 +18,7 @@ social_links:
 
 # Additional options
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # Navigation menu
 nav:
@@ -38,4 +37,3 @@ highlighter: rouge
 
 # Build settings
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
